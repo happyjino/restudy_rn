@@ -1,4 +1,4 @@
-// ch02_3
+// ch02_4
 
 import React from 'react';
 import { SafeAreaView, ScrollView } from 'react-native';
